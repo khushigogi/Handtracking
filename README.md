@@ -16,7 +16,7 @@ pip install opencv-python mediapipe
 ```
 
 ## Usage
-Clone the repository and run the script:
+Clone the repository and run the script :
 
 ```bash
 git clone https://github.com/your-username/hand-tracking.git
